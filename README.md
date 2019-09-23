@@ -1,8 +1,6 @@
 # Flappy Bird
 
-![Image01](other_files/screen01.PNG) 
-
-![Image01](other_files/screen-gif.GIF) 
+![Image01](other_files/screen-gif.gif) 
 
 Projeto desenvolvido durante o curso Web-Moderno utilizando JavaScript.
 
